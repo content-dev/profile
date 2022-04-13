@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.e0b78bfd.chunk.css",
+    "main.js": "/profile/static/js/main.0bd56010.chunk.js",
+    "main.js.map": "/profile/static/js/main.0bd56010.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.8771bb24.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.8771bb24.js.map",
+    "static/js/2.9b192fe9.chunk.js": "/profile/static/js/2.9b192fe9.chunk.js",
+    "static/js/2.9b192fe9.chunk.js.map": "/profile/static/js/2.9b192fe9.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.7d8644ca691c7ff9bbecda796301506b.js": "/profile/precache-manifest.7d8644ca691c7ff9bbecda796301506b.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/main.e0b78bfd.chunk.css.map": "/profile/static/css/main.e0b78bfd.chunk.css.map",
+    "static/js/2.9b192fe9.chunk.js.LICENSE.txt": "/profile/static/js/2.9b192fe9.chunk.js.LICENSE.txt",
+    "static/media/armando-hdz-01.png": "/profile/static/media/armando-hdz-01.e0e04d06.png",
+    "static/media/ibm-01.png": "/profile/static/media/ibm-01.3b847c2b.png",
+    "static/media/itexico-01.png": "/profile/static/media/itexico-01.a5fd16c5.png",
+    "static/media/tcs-01.png": "/profile/static/media/tcs-01.137b26c8.png",
+    "static/media/video-01.png": "/profile/static/media/video-01.cbc2d501.png",
+    "static/media/video-02.png": "/profile/static/media/video-02.f8b144fb.png",
+    "static/media/video-03.png": "/profile/static/media/video-03.2af6b9a2.png",
+    "static/media/video-04.png": "/profile/static/media/video-04.6c42ce77.png",
+    "static/media/video-05.png": "/profile/static/media/video-05.2b3f256b.png",
+    "static/media/video-06.png": "/profile/static/media/video-06.bae92a1d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8771bb24.js",
+    "static/js/2.9b192fe9.chunk.js",
+    "static/css/main.e0b78bfd.chunk.css",
+    "static/js/main.0bd56010.chunk.js"
+  ]
+}
